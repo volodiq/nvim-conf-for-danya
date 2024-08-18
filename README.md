@@ -1,0 +1,1 @@
+# nvim-conf-for-danya
